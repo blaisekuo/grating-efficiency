@@ -1,0 +1,43 @@
+543nm_beamsplitter_measure_run00 - 8/10/2018 - 543 - PD1 measuring at grating pos - PD2 off 90 - beam splitter measurement
+543nm_beamsplitter_measure_run5 -  18/10/2018 - 543 - PD1 measuring at grating pos - PD2 off 90 - beam splitter measurement
+543nm_beamsplitter_measure_run6 - 18/10/2018 - 543 - PD1 off 90 - PD2 measuring at grating pos- beam splitter measurement
+543nm_on1_run2 - 16/10/2018 - 543 - PD1 measuring at grating pos - PD2 off 90 - off plane angle variation approx order 268
+543nm_on1_run8 - 18/10/2018 - 543 - PD1 measuring at grating pos - PD2 off 90 - off plane angle variation approx order 268
+543nm_run0 - 8/10/2018 - 543 - PD1 measuring at grating - PD2 off 90 - approx order 269
+543nm_run2 - 16/10/2018 - 543 - PD1 measuring at grating - PD2 off 90 - approx order 269
+543nm_run8 - 18/10/2018 - 543 - PD1 measuring at grating - PD2 off 90 - approx order 269
+633nm_beamsplitter_measure_run3 - 633 - 18/10/2018 - PD1 measuring at grating - PD2 off 90 - beam splitter measurement
+633nm_beamsplitter_measure_run4 - 633 - 18/10/2018 - PD2 measuring at grating - PD1 off 90 - beam splitter measurement
+633nm_on1_run2 - 633 - 16/10/2018 - PD1 measuring at grating - PD2 off 90 - off plane angle variation approx order 230
+633nm_on1_run9 - 18/10/2018 - PD1 measuring at grating - PD2 off 90 - off plane angle variation approx order 230
+633nm_run2 - 16/10/2018 - PD1 measuring at grating - PD2 off 90 - off plane angle variation approx order 231
+633nm_run9 - 18/10/2018 - PD1 measuring at grating - PD2 off 90 - off plane angle variation approx order 231
+PD_dark_run000 - 8/10/2018 - - - dark
+PD_dark_run7 - 18/10/2018 - - - dark
+PD_dark_run10 - 19/10/2018 - - - dark
+PD_dark_run11 - 19/10/2018 - - - dark nW level
+543nm_measurelaser_run12 - 19/10/2018 - - - PD1 543 laser measuring at grating - PD2 dark - measuring the laser
+PD_dark_run13 - 19/10/2018 - - - dark level after laser bombardment
+543nm_nosplit_lasercal_run14 - 21/10/2018 - PD1 illuminated infront of grating - - laser calibration
+543nm_nosplitter_run15 - 21/10/2018 - PD1 reflection from grating order 269 - - no beam splitter in path
+543nm_no1_nosplitter_run16 - 21/10/2018 - PD1 reflection from grating order 268 - - no beam splitter in path
+543nm_lasercal_after_run17 - 21/10/2018 - PD1 illuminated from grating - - after measurement runs
+633nm_nosplitter_lasercal_run18 - 21/10/2018 - PD1 illuminated infront of grating - - laser calibration
+633nm_nosplitter_run19 - 21/10/2018 - PD1 reflection from grating order 231 - - no beam splitter in path
+633nm_no1_nosplitter_run20 - 21/10/2018 - PD1 reflection from grating order 230 - - no beam splitter in path
+633nm_nosplitter_lasercalpost_run21 - 21/10/2018 - PD1 illuminated from grating - - after measurement runs
+543nm_nosplit_lasercal_run22 - 21/10/2018 - PD1 illuminated infront of grating - - laser calibration
+543nm_nosplitter_run23 - 21/10/2018 - PD1 reflection from grating order 269 - - no beam splitter in path
+543nm_no1_nosplitter_run24 - 21/10/2018 - PD1 reflection from grating order 268 - - no beam splitter in path
+543nm_lasercal_after_run25 - 21/10/2018 - PD1 illuminated from grating - - after measurement runs
+monochromator_cal_run26 - 22/10/2018 - PD1 illimunated infront of grating - - changed sampling interval to 0.05 sec
+monochromator_pos2_nosplitter_run27 - 22/10/2018 - PD1 at pos2 - no splitter 0.05 sampling interval
+monochromator_pos5_nosplitter_run28 - 22/10/2018 - PD1 at pos5 - no splitter 0.05 sampling interval
+543nm_lasercal_run29 - 23/10/2018 - PD1 infront of grating - PD2 off - no splitter, 0.05 sec innterval, 1mW scale
+543nm_beamspliitercal_run30 - 23/10/2018 - PD1 infront of grating after beam splitter - PD2 90 off 90 from beam splitter - 0.05 sec interval, 1 mW scale
+633_laser_cal_run31 - 23/10/2018 - PD1 infront of grating - PD2 off - no splitter, 0.05 sec innterval, 1mW scale
+633nm_beamspliitercal_run32 - 23/10/2018 - PD1 infront of grating after beam splitter - PD2 90 off 90 from beam splitter - 0.05 sec interval, 1 mW scale
+monochromator_beamsplit_run33 - 24/10/2018 - PD1 close to grating - PD2 90 degree refectance - 0.5 sec interval, 10 microW scale, set to 543 nm at peak efficiency
+monochromatro_beamsplit_run34 - 24/10/2018 - PD1 close to grating - PD2 90 degree reflectance - 0.5 sec interval 10 microW scale, set to 543 nm range through 
+monochromator_beamspplittyercal_run35
+monochromator_lasercal_run36
